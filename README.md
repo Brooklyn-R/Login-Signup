@@ -1,5 +1,5 @@
-# Login-Signup
-Login/ Signup from 
+# SingUp/ SignIn 
+Signup or singin from. 
 
 ## Languages used:
 Html, Css & Javascript
